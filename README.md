@@ -1,3 +1,11 @@
+### View Product
+Firebase todolist app: https://todolist-reactjs-4b02c.firebaseapp.com/
+Storage data: Local Storage [Browser]
+
+---------------------------------------------------------
+note: This is the product I made during reactjs learning
+---------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
